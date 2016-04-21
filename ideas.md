@@ -15,3 +15,7 @@ Workshop: Saturday 14 May, 10am - 12pm.
 * Personas and ideas from [A Web For Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/).
 * Performance as an accessiblity issue.
 * [x] Look at the list we made for the Open Design event: [checklist](http://ctfeds.org/open-design-2015-checklist/) and [principles](http://ctfeds.org/open-design-2015-principles/).
+
+# Resources
+
+* HTML5 Accessibility - Get the current accessibility support status of HTML5 features across major browsers. http://stevefaulkner.github.io/HTML5accessibility/
