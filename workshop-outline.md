@@ -7,7 +7,7 @@ Ideas for warm-up questions.
 * Is accessibility easy or hard?
 * When is the best time to consider accessibility in a project?
 
-Other start-u activity ideas.
+Other start-up activity ideas.
 
 * When might accessibility features be useful to a person? (e.g. injury, dark room. Have examples ready for them to pick from?)
 * introduce some [personas](http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)?
