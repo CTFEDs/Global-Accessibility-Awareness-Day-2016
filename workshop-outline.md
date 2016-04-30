@@ -24,10 +24,19 @@ Other start-up activity ideas.
 
 ## Checklist
 
+### Primary
+
 * [Validate](http://validator.w3.org/) your HTML.
-* Use HTML5 input types like `search`, `email`, and `date`.
 * Use HTML5 elements like `section`, `article`, `header`, `footer`, and `nav`.* Make sure every image has `alt` text.
 * Use the `picture` element and `srcset` to provide the image most suitable for the user's device. You can use [Picturefill](http://scottjehl.github.io/picturefill/) to enable support for `picture` in browsers that don't support it yet.
+* Think about performance: what are you loading that people won't see?
+
+### Secondary
+
+* Use HTML5 input types like `search`, `email`, and `date`.
+* Don't use inline CSS (using the `style` tag or `style` attribute on HTML elements): use external stylesheets (using the `link` tag). The exception is for [critical CSS](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent#RemoveUnusedCSS): initially sending a small amount of CSS in the head of the document so that page rendering starts as early as possible.
+* Don't use inline JS (using a `script` tag or directly on an HTML element): include external JS files (using the `src` attribute on a `script` element).
+* Place `script` elements at the bottom of the page, or load them asynchronously by adding the `async` attribute to the `script` tag (this means that the loading of the JavaScript files won't block loading of the page).
 
 ## Examples to work through
 
