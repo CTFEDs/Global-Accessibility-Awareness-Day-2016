@@ -1,114 +1,113 @@
-# Accessible<br>User Experience<br>Framework
+# **Accessible<br>User Experience<br>Framework**
 
 ---
 
-# Sarah Horton<br>and<br>Whitney Quesenbery
-# **A Web for Everyone**
+# Sarah Horton<br>and<br>Whitney Quesenbery<br><br><br><br>*A Web for Everyone*
 
 ---
 
-# People First
+# **People First**
 
 ---
 
-# **Designing for Differences**
+# *Designing for Differences*
 
 ---
 
-# People are the first consideration, and sites are designed with the needs of everyone in the audience in mind.
+## People are the first consideration, and sites are designed with the needs of everyone in the audience in mind.
 
 ---
 
-# Clear Purpose
+# **Clear Purpose**
 
 ---
 
-# **Well-Defined Goals**
+# *Well-Defined Goals*
 
 ---
 
-# People enjoy products that are designed for the audience and guided by a defined purpose and goals.
+## People enjoy products that are designed for the audience and guided by a defined purpose and goals.
 
 ---
 
-# Solid Structure
+# **Solid Structure**
 
 ---
 
-# **Built to Standards**
+# *Built to Standards*
 
 ---
 
-# People feel confident using the design because it is stable, robust, and secure.
+## People feel confident using the design because it is stable, robust, and secure.
 
 ---
 
-# Easy Interaction
+# **Easy Interaction**
 
 ---
 
-# **Everything Works**
+# *Everything Works*
 
 ---
 
-# People can use the product across all modes of interaction and operating with a broad range of devices.
+## People can use the product across all modes of interaction and operating with a broad range of devices.
 
 ---
 
-# Helpful Wayfinding
+# **Helpful Wayfinding**
 
 ---
 
-# **Guides Users**
+# *Guides Users*
 
 ---
 
-# People can navigate a site, feature, or page following self-explanatory signposts.
+## People can navigate a site, feature, or page following self-explanatory signposts.
 
 ---
 
-# Clean Presentation
+# **Clean Presentation**
 
 ---
 
-# **Supports Meaning**
+# *Supports Meaning*
 
 ---
 
-# People can perceive and understand elements in the design.
+## People can perceive and understand elements in the design.
 
 ---
 
-# Plain Language
+# **Plain Language**
 
 ---
 
-# **Creates a Conversation**
+# *Creates a Conversation*
 
 ---
 
-# People can read, understand, and use the information.
+## People can read, understand, and use the information.
 
 ---
 
-# Accessible Media
+# **Accessible Media**
 
 ---
 
-# **Supports All Senses**
+# *Supports All Senses*
 
 ---
 
-# People can understand and use information contained in media, such as images, audio, video, animation, and presentations.
+## People can understand and use information contained in media, such as images, audio, video, animation, and presentations.
 
 ---
 
-# Universal Usability
+# **Universal Usability**
 
 ---
 
-# **Creates Delight**
+# *Creates Delight*
 
 ---
 
-# People can focus on the experience and their own goals because the product anticipates their needs.
+## People can focus on the experience and their own goals because the product anticipates their needs.
