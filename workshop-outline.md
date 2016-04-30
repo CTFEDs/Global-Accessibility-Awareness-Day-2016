@@ -49,6 +49,7 @@ Other start-up activity ideas.
 * Heydon Pickering's [practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 * Font Awesome 4.6 Released: [Making accessibility more accessible](https://articles.fortawesome.com/font-awesome-4-6-released-d7213342698a#.j8om7wij4)
 * [Code Library (Beta) from Deque University](https://dequeuniversity.com/library/)
+* [Simply Accessible examples](http://examples.simplyaccessible.com/)
 
 # Your stuff
 
@@ -70,13 +71,19 @@ Other start-up activity ideas.
 
 ## Tools
 
-* pa11y
-* tenon
-* bbc-a11y
-* check my pinboard bookmarks
+* [pa11y](http://pa11y.org/)
+* [a11y](https://addyosmani.com/a11y/)
+* [tenon](https://tenon.io/)
+* [axe](http://www.deque.com/products/axe/)
+* [The A11y Machine](https://github.com/liip/TheA11yMachine)
+* [BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y)
+* [tota11y](http://khan.github.io/tota11y/), an accessibility visualization toolkit
+* Web Aim's [Web Accessibility Evaluation Tool](http://wave.webaim.org/)
+* Big list on [Paciello Group](https://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/)
+* [Lea Verou's colour contrast ratio checker](http://leaverou.github.io/contrast-ratio/)
 
 # Other people's stuff
 
-* How to convice your boss. Handout?
+* How to convince your boss. Handout?
 * Activity list. Handout?
 * Follow-ups: blog post, tweets, share on meetup, Slacks.
