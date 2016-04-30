@@ -35,6 +35,13 @@ Other start-up activity ideas.
 * Font Awesome 4.6 Released: [Making accessibility more accessible](https://articles.fortawesome.com/font-awesome-4-6-released-d7213342698a#.j8om7wij4)
 * [Code Library (Beta) from Deque University](https://dequeuniversity.com/library/)
 
+## Tools
+
+* pa11y
+* tenon
+* bbc-a11y
+* check my pinboard bookmarks
+
 # Other people's stuff
 
 * How to convice your boss. Handout?
