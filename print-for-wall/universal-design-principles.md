@@ -1,8 +1,8 @@
-# Universal Design Principles
+# **Universal <br>Design <br>Principles**
 
 ---
 
-# Equitable Use
+# **Equitable Use**
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-# Flexibility in Use
+# **Flexibility in Use**
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-# Simple, Intuitive Use
+# **Simple, Intuitive Use**
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-# Perceptible Information
+# **Perceptible Information**
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-# Tolerance for Error
+# **Tolerance for Error**
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-# Low Physical Effort
+# **Low Physical Effort**
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-# Size and Space for Approach and Use
+# **Size and Space for Approach and Use**
 
 ---
 
