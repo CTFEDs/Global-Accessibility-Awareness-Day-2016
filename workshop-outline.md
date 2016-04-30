@@ -6,6 +6,9 @@ Ideas for warm-up questions.
 * Who does accessibility help?
 * Is accessibility easy or hard?
 * When is the best time to consider accessibility in a project?
+* Who will you share the stuff from the workshop with? (tie this in to SMART goal at end)
+* Who do you know that would benefit from web sites being more accessible?
+* What accessiblity features would you benefit from?
 
 Other start-up activity ideas.
 
