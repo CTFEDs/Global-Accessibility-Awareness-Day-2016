@@ -15,10 +15,31 @@ Other start-up activity ideas.
 * When might accessibility features be useful to a person? (e.g. injury, dark room. Have examples ready for them to pick from?)
 * introduce some [personas](http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)?
 
-## Two lightning talks
+## Activities
+
+* Need to highlight that the barrier part of accessibility means other things like language, environment. Get attendess to make this list. Use personas as jumping off point / helper? In intro lightning talk?
+
+## Two lightning talks (2 x 5m)
 
 * what topics?
 * one on theory, one on practical?
+
+### Tour the personas (10m)
+
+* Walk around, talk notes.
+* Pick one or two to focus on?
+
+### Find things to improve in your stuff (15m)
+
+* Grab a copy of the GAAD activites handout.
+* As a table, split up the activities between yourselves. Make sure that you cover all of them.
+
+### Make a checklist (30m)
+
+* Grab two different colour pens: one for FED and one for UX.
+* Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines](handout/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
+* Pick the four most important items write them down on sticky notes. Pick three for FED and one for UX.
+* As a table, write down some ideas for how to make these things happen. It could be a tool or a process change.
 
 # Your stuff
 
