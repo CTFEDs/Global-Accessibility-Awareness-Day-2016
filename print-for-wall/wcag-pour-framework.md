@@ -1,8 +1,8 @@
-# WCAG POUR framework
+# **WCAG POUR framework**
 
 ---
 
-# Perceivable
+# **Perceivable**
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-# Operable
+# **Operable**
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-# Understandable
+# **Understandable**
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-# Robust
+# **Robust**
 
 ---
 
