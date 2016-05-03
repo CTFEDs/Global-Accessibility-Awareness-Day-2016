@@ -13,7 +13,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 * Is accessibility easy or hard?
 * When is the best time to consider accessibility in a project?
 * Who do you know that would benefit from web sites being more accessible?
-* What accessiblity features would you benefit from?
+* What accessibility features would you benefit from?
 
 ## Opening activity (as people arrive)
 
