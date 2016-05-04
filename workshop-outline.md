@@ -28,7 +28,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 
 * Grab a copy of the [Global Accessibility Awareness Day activities handout](activities.md).
 * As a table, split up the activities between yourselves. Try and make sure that you cover all the activities.
-* Do a 5 minute reviewwith your table at the end. What was the most important thing you learned?
+* Do a 5 minute review with your table at the end. What was the most important thing you learned?
 
 ## Make a checklist (30m)
 
@@ -36,7 +36,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 * Grab two different colour pens: one for FED and one for UX.
 * Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines](handout/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
 * Pick the four most important items and write them down on sticky notes. Make sure you pick a mix of FED and UX things.
-* As a table, write down some ideas for how to make these things happen. It could be a tool or a process change.
+* As a table, write down some ideas for how to make these things happen. It could be a tool, a process change, a bit of code, a design pattern.
 
 ## Find things to improve in your stuff (60m)
 
