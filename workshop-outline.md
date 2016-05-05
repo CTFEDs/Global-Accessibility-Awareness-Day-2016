@@ -1,3 +1,8 @@
+---
+layout: default
+title: Workshop outline
+---
+
 # Workshop outline
 
 We'll all be working on our own stuff, but this isn't a blame game. It's a "how can we make our stuff better for everyone?"" game. It's a love-in. :)
