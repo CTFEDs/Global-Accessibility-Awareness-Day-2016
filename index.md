@@ -8,17 +8,18 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 ## Documents
 
 * [Workshop Outline](workshop-outline/)
+* [Instructions](decks/instructions.pdf) (PDF)
 * [Resources](resources/) (also as [ctfeds.org/gaadr](http://ctfeds.org/gaadr))
 
 
-### personas
+### Personas
 
-* [AccessibleUX Personas Overview](personas/AccessibleUX-Personas-Overview1.pdf)
+* [AccessibleUX Personas Overview](personas/AccessibleUX-Personas-Overview1.pdf) (PDF)
 
 
 ## Poster for the walls
 
-* [Equations](print-for-wall/equations.pdf)
-* [Universal Design Principles](print-for-wall/universal-design-principles.pdf)
-* [WCAG POUR Framework](print-for-wall/wcag-pour-framework.pdf)
-* [Accessible User Experience Framework](print-for-wall/accessible-user-experience-framework-print.pdf)
+* [Equations](print-for-wall/equations.pdf) (PDF)
+* [Universal Design Principles](print-for-wall/universal-design-principles.pdf) (PDF)
+* [WCAG POUR Framework](print-for-wall/wcag-pour-framework.pdf) (PDF)
+* [Accessible User Experience Framework](print-for-wall/accessible-user-experience-framework-print.pdf) (PDF)
