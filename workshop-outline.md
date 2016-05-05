@@ -37,7 +37,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 
 ## Make a checklist (30m)
 
-* Justin and Steve talk through the wall posters: Accessible User Experience Framework and Universal Design Principles.
+* Justin and Steve talk through the wall posters: Universal Design Principles, WCAG POUR framework, and Accessible User Experience Framework.
 * Grab two different colour pens: one for FED and one for UX.
 * Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines](handout/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
 * Pick the four most important items and write them down on sticky notes. Make sure you pick a mix of FED and UX things.
