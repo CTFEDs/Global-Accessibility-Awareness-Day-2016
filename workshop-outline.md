@@ -22,7 +22,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 * WAI-ARIA whistlestop tour, landmarks, roles, etc. WCAG levels.
 * Inclusive design, universal design. What are the bad things that happen when you don't design and code accessibly? Show some sites without images, in Lynx.
 * Demonstration of VoiceOver, Lynx (as proxy)
-* 5Ws and 1H of Accessbility. Shout outs from audience, but with one in spekaer notes?
+* 5Ws and 1H of Accessbility. Shout outs from audience, but with one in speaker notes?
 
 ## Tour the personas (20m)
 
