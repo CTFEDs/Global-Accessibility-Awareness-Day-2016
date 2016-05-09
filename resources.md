@@ -18,6 +18,7 @@ title: Resources
 * Use HTML5 elements like `section`, `article`, `header`, `footer`, and `nav`.* Make sure every image has `alt` text.
 * Use the `picture` element and `srcset` to provide the image most suitable for the user's device. You can use [Picturefill](http://scottjehl.github.io/picturefill/) to enable support for `picture` in browsers that don't support it yet.
 * Think about performance: what are you loading that people won't see?
+* Ensure that your HTML document follows correct outline guidelines. See [Document Outlines](http://html5doctor.com/outlines/) for an excellent introduction.
 
 ### Secondary
 
@@ -38,7 +39,9 @@ title: Resources
 * [BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y)
 * [Google Chrome Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Google Chrome Accessibility Developer Tools browser extension](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
+* [Firefox Accessibility Evaluation Toolbar](https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/) - (not working in FF46+ but fix is in the works)
 * [tota11y](http://khan.github.io/tota11y/), an accessibility visualization toolkit
 * Web Aim's [Web Accessibility Evaluation Tool](http://wave.webaim.org/)
 * Big list on [Paciello Group](https://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/)
 * [Lea Verou's colour contrast ratio checker](http://leaverou.github.io/contrast-ratio/)
+* [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
