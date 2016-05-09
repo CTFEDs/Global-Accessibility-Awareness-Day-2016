@@ -47,4 +47,4 @@ title: Resources
 * [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
 * [Mozilla Developer Network ARIA documentation](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [HTML5 Accessibility support status](http://stevefaulkner.github.io/HTML5accessibility/)
-* [W3C ARIA 1.0 Implementation Report](https://www.w3.org/WAI/ARIA/1.0/CR/implementation-report)
+* [W3C ARIA 1.0 Implementation Report](https://www.w3.org/WAI/ARIA/1.0/CR/implementation-report) - useful to see how patchy support for role mapping is.
