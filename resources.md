@@ -45,5 +45,6 @@ title: Resources
 * Big list on [Paciello Group](https://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/)
 * [Lea Verou's colour contrast ratio checker](http://leaverou.github.io/contrast-ratio/)
 * [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
-* [HTML5 Accessibility support status](http://stevefaulkner.github.io/HTML5accessibility/)
 * [Mozilla Developer Network ARIA documentation](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+* [HTML5 Accessibility support status](http://stevefaulkner.github.io/HTML5accessibility/)
+* [W3C ARIA 1.0 Implementation Report](https://www.w3.org/WAI/ARIA/1.0/CR/implementation-report)
