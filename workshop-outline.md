@@ -17,12 +17,12 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 * Share your warm-up answers with your table.
 * Review the list of categories of "disabilities" on the wall. Pick a tick in the column if you know someone who falls into this category.
 
-## Two lightning talks (2 x 5m)
+## Two lightning talks (2 x 10m)
 
-* WAI-ARIA whistlestop tour, landmarks, roles, etc. WCAG levels.
+* 5Ws and 1H of Accessibility. Shout outs from audience, but with one in speaker notes?
+* WAI-ARIA whistle-stop tour, landmarks, roles, etc. WCAG levels.
 * Inclusive design, universal design. What are the bad things that happen when you don't design and code accessibly? Show some sites without images, in Lynx.
 * Demonstration of VoiceOver, Lynx (as proxy)
-* 5Ws and 1H of Accessbility. Shout outs from audience, but with one in speaker notes?
 
 ## Tour the personas (20m)
 
@@ -37,12 +37,16 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 * As a table, split up the activities between yourselves. Try and make sure that you cover all the activities.
 * Do a 5 minute review with your table at the end. What was the most important thing you learned?
 
-## Make a checklist (30m)
+## Make a checklist (20m)
 
 * Justin and Steve talk through the wall posters: Universal Design Principles, WCAG POUR framework, and Accessible User Experience Framework.
 * Grab two different colour pens: one for FED and one for UX.
 * Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines](handout/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
-* Pick the four most important items and write them down on sticky notes. Make sure you pick a mix of FED and UX things.
+
+## Pick the most important (5m)
+* Pick the three most important items and write them down on sticky notes. Make sure you pick a mix of FED and UX things.
+
+## Write down ideas to make them happen (10m)
 * As a table, write down some ideas for how to make these things happen. It could be a tool, a process change, a bit of code, a design pattern.
 
 ## Find things to improve in your stuff (60m)
