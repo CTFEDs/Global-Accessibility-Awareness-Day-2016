@@ -14,36 +14,35 @@
 
 ![](img/justin.jpg) ![](img/steve.jpg)
 
+^ 2 x 10m
+
 ---
 
 # Equations chat
 
-![](img/justin.jpg) ![](img/steve.jpg)
+![](img/discussion.jpg)
 
 ^ Justin and Steve talk through
+5m
 
 ---
 
-# Persona tour
+# Personas tour
 
 ![](img/flipchart.jpg)
 
 ^ Pick a few to focus on
 Grab a print out
+15m
 
 ---
 
-# Grab a copy of the GAAD handout
+# Do GAAD activities
 
-![](img/paper.jpg)
-
----
-
-# Split up and do activities
-
-![](img/discussion.jpg)
+![](img/laptop.jpg)
 
 ^ Try and cover them all
+30m
 
 ---
 
@@ -52,15 +51,17 @@ Grab a print out
 ![](img/discussion.jpg)
 
 ^ Review
+5m
 
 ---
 
 # Wall posters chat
 
-![](img/justin.jpg) ![](img/steve.jpg)
+![](img/discussion.jpg)
 
 ^ Accessible UX Framework
 Universal Design Principles
+5m
 
 ---
 
@@ -70,41 +71,58 @@ Universal Design Principles
 ![](img/paper-roll.jpg)
 
 ^ A Web For Everyone
+20m
 
 ---
 
-# Four most important things
+# Three most important things
 
 ![](img/stickynotes.jpg)
 
 ^ mix of FED and UX
+5m
 
 ---
 
-# How To Table
+# How To?
+## (tool, process, pattern?)
 
 ![](img/paper-roll.jpg)
 
 ^ tool, process, code, pattern
+10m
 
 ---
 
-# Three To Dos For You
-## ctfeds.org/gaadr
+#  To Dos For You Today
+## your checklist, ctfeds.org/gaadr
 
 ![](img/indexcards.jpg)
 
 ^ Your checklist
+This link
+Your stuff
+10m
+
+---
+
+# Do Your
+# To Dos!
+
+![](img/laptop.jpg)
+
+^ 60m
 
 ---
 
 ## GAAD At Your Office
-# Value
-# Affect
+# SMART Goal
 
 ![](img/paper.jpg)
 
 ^ Thursday
+Value, Affect?
+blog post, tweets, share on meetup, Slack groups. Global Accessibility **Awareness** Day!
 
 ---
 
@@ -112,3 +130,6 @@ Universal Design Principles
 ## One Thing We Could Do Differently
 
 ![](img/indexcards.jpg)
+
+^ Anonymous is fine
+5m
