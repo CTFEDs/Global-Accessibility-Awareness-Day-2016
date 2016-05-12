@@ -8,7 +8,7 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 ## Lightning talks
 
 * Steve: [5Ws and 1H of Accessibility](decks/lightning-talk-steve.pdf)
-* Justin: WAI-ARIA
+* Justin: [WAI-ARIA](decks/lightning-talk-justin.pdf)
 
 ## Documents
 
