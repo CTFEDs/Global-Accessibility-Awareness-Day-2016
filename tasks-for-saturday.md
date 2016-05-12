@@ -1,6 +1,6 @@
 # Tasks
 
-* Barriers to access list (Justin)
+* ~~Barriers to access list (Justin)~~
 * Inclusive design (Justin)
 * Disability (Steve)
 * Add short urls to posters - ctfeds/ (Justin)
