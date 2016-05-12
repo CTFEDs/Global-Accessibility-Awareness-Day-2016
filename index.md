@@ -27,4 +27,4 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 * [Equations](print-for-wall/equations.pdf) (PDF)
 * [Universal Design Principles](print-for-wall/universal-design-principles.pdf) (PDF)
 * [WCAG POUR Framework](print-for-wall/wcag-pour-framework.pdf) (PDF)
-* [Accessible User Experience Framework](print-for-wall/accessible-user-experience-framework-print.pdf) (PDF)
+* [Accessible User Experience Framework](print-for-wall/accessible-user-experience-framework.pdf) (PDF)
