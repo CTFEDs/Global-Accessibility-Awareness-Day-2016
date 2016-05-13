@@ -9,9 +9,9 @@ build-lists: true
 
 ---
 
-## What is WAI-ARIA
+## What is WAI-ARIA?
 
-The WAI bit is the Web *Accessibility Initiative*[^1] at the W3C.
+The WAI bit is the Web **Accessibility Initiative**[^1] at the W3C.
 
 [^1]: See [Web Accessibility Initiative](https://www.w3.org/WAI/)
 
@@ -19,11 +19,11 @@ The WAI bit is the Web *Accessibility Initiative*[^1] at the W3C.
 
 ---
 
-## What is WAI-ARIA
+## What is WAI-ARIA?
 
-The WAI bit is the Web *Accessibility Initiative*[^1] at the W3C.
+The WAI bit is the **Web Accessibility Initiative**[^1] at the W3C.
 
-The ARIA bit stands for *Accessible Rich Internet Applications*, first published on 20 March, 2014
+The ARIA bit stands for **Accessible Rich Internet Applications**, first published on 20 March, 2014
 
 [^1]: See [Web Accessibility Initiative](https://www.w3.org/WAI/)
 
@@ -93,7 +93,6 @@ ARIA states and properties offer the user further information on how to interact
 `<button class="fancy-button" role="button">Click me</button>`
 
 ^ A div with a role of "button" does not suddenly have keyboard focusability, an automatic click handler when Space or Enter are pressed, or any other properties associated with a button tag. The browser itself does not know that a div with role of "button" is a button, only its accessibility API does.
-Where roles have HTML equivalents it is best not to use them.
 
 ---
 
@@ -102,6 +101,8 @@ Where roles have HTML equivalents it is best not to use them.
 ~~`<div class="fancy-button" role="button">Click me</div>`~~
 
 ~~`<button class="fancy-button" role="button">Click me</button>`~~
+
+^ Where roles have HTML equivalents it is best not to use them.
 
 ---
 
@@ -115,7 +116,7 @@ Where roles have HTML equivalents it is best not to use them.
 
 ^ Because a button has an inherent accessibility role, and attendant properties and states, we do not need to assign its ARIA equivalent.
 
-^ Note: not all HTML elements are inherently accessible. Not all browsers map inherent accessibility roles (IE, EDGE, Safari particularly poor). As in all tings, BALANCE.
+^ Note: not all HTML elements are inherently accessible. Not all browsers map inherent accessibility roles (IE, EDGE, Safari particularly poor). As in all things, BALANCE.
 
 ---
 
@@ -134,8 +135,12 @@ Where roles have HTML equivalents it is best not to use them.
     <a href="#panel-two">Chapter 2</a>
   </li>
 </ol>
-<div id="panel-one">Chapter 1 content goes here</div>
-<div id="panel-two">Chapter 2 content goes here</div>
+<div id="panel-one">
+  Chapter 1 content goes here
+</div>
+<div id="panel-two">
+  Chapter 2 content goes here
+</div>
 ```
 
 ^ This is a tabs widget. How would you know, looking only at the markup? A screen reader will have no idea. Also, with tabs one or more panels will be hidden causing even more difficulties for assistive technologies.
@@ -153,8 +158,12 @@ Where roles have HTML equivalents it is best not to use them.
     <a href="#panel-two">Chapter 2</a>
   </li>
 </ol>
-<div id="panel-one" role="tabpanel" aria-labelledby="link-one">Chapter 1 content goes here</div>
-<div id="panel-two" role="tabpanel" aria-labelledby="link-two">Chapter 2 content goes here</div>
+<div id="panel-one" role="tabpanel" aria-labelledby="link-one">
+  Chapter 1 content goes here
+</div>
+<div id="panel-two" role="tabpanel" aria-labelledby="link-two">
+  Chapter 2 content goes here
+</div>
 ```
 
 ^ Here we are adding the missing semantics needed by assistive technologies by describing this widget in more detail, and by adding special attributes to the markup.
@@ -185,8 +194,12 @@ Where roles have HTML equivalents it is best not to use them.
     <a href="#panel-two">Chapter 2</a>
   </li>
 </ol>
-<div id="panel-one" role="tabpanel" aria-labelledby="link-one" aria-hidden="false">Chapter 1 content goes here</div>
-<div id="panel-two" role="tabpanel" aria-labelledby="link-two" aria-hidden="true">Chapter 2 content goes here</div>
+<div id="panel-one" role="tabpanel" aria-labelledby="link-one" aria-hidden="false">
+  Chapter 1 content goes here
+</div>
+<div id="panel-two" role="tabpanel" aria-labelledby="link-two" aria-hidden="true">
+  Chapter 2 content goes here
+</div>
 ```
 
 ---
@@ -218,3 +231,5 @@ div[aria-hidden="true"] {
 ^ Make changes to states via js.
 
 ---
+
+# Questions?
