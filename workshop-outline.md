@@ -26,7 +26,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 
 ## Equations chat (5m)
 
-* Talk through the [Equations](print-for-wall/equations.pdf). Stand around them and audience shout outs. Justin do **Inclusive Design**, Steve do **Disability**.
+* Talk through the [Equations](/Global-Accessibility-Awareness-Day-2016/print-for-wall/equations.pdf). Stand around them and audience shout outs. Justin do **Inclusive Design**, Steve do **Disability**.
 
 ## Personas Tour (15m)
 
@@ -36,7 +36,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 
 ## Do GAAD activities (30m)
 
-* Grab a copy of the [Global Accessibility Awareness Day activities handout](activities.md).
+* Grab a copy of the [Global Accessibility Awareness Day activities handout](/Global-Accessibility-Awareness-Day-2016/activities.pdf).
 * As a table, split up the activities between yourselves. Try and make sure that you cover all the activities.
 
 ## GAAD review (5m)
@@ -50,7 +50,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 ## Make a checklist (20m)
 
 * Grab two different colour pens: one for FED and one for UX.
-* Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines](handout/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
+* Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines](/Global-Accessibility-Awareness-Day-2016/handouts/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
 
 ## Pick the three most important (5m)
 
@@ -62,7 +62,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 
 ## Find things to improve in your stuff (60m)
 
-* Consult the your checklist and our [resources pages](resources.md).
+* Consult the your checklist and our [resources pages](/Global-Accessibility-Awareness-Day-2016/resources/).
 * Make yourself a TODO list. Pick three things to work on today.
 
 ## GAAD Activities at your office (10m)
