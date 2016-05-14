@@ -19,6 +19,7 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 
 ### Personas
 
+* [A Web for Everyone Resources](http://rosenfeldmedia.com/books/a-web-for-everyone/#resources) (scroll down to **Meet the personas**)
 * [AccessibleUX Personas Overview](personas/AccessibleUX-Personas-Overview1.pdf) (PDF)
 
 
