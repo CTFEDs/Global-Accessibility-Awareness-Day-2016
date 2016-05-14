@@ -28,11 +28,11 @@
 ---
 
 # Personas tour
+##  Pick a few to focus on
 
 ![](img/flipchart.jpg)
 
 ^ Pick a few to focus on
-Grab a print out
 15m
 
 ---
@@ -65,8 +65,8 @@ Universal Design Principles
 
 ---
 
-# Appendix A
-# Mark FED, UX
+# Make a checklist
+## Using Appendix A
 
 ![](img/paper-roll.jpg)
 
@@ -86,6 +86,7 @@ Universal Design Principles
 
 # How To?
 ## (tool, process, pattern?)
+## ctfeds.org/gaadr
 
 ![](img/paper-roll.jpg)
 
@@ -94,8 +95,9 @@ Universal Design Principles
 
 ---
 
-#  To Dos For You Today
-## your checklist, ctfeds.org/gaadr
+#  To Dos
+# For You
+# Today
 
 ![](img/indexcards.jpg)
 
@@ -118,7 +120,7 @@ Your stuff
 ## GAAD At Your Office
 # SMART Goal
 
-![](img/paper.jpg)
+![](img/indexcards.jpg)
 
 ^ Thursday
 Value, Affect?
