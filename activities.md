@@ -1,4 +1,4 @@
-# Global Accessilbity Awareness Day activities
+# Global Accessibility Awareness Day activities
 
 See [Participate in Global Accessibility Awareness Day](http://www.globalaccessibilityawarenessday.org/participate.html) for more detail.
 
