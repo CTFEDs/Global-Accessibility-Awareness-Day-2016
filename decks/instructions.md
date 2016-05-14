@@ -1,10 +1,15 @@
-# Share your warm-up answers
+### Share your warm-up answers
+
+## Who does<br>accessibility help?
+## Who will you share<br>the stuff from<br>the workshop with?
+
 
 ![](img/stickynotes.jpg)
 
 ---
 
-# Tick the columns
+## Know someone<br>with this barrier?
+# Add a tick **✔︎**
 
 ![](img/flipchart.jpg)
 
@@ -38,6 +43,7 @@
 ---
 
 # Do GAAD activities
+## ctfeds/gaad-act
 
 ![](img/laptop.jpg)
 
