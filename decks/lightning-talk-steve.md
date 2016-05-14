@@ -1,5 +1,9 @@
+![](img/tftbotr.png) ![](img/a-web-for-everyone.jpg) 
+
+---
+
 # 5W1H
-# of Accessibility
+# (of Accessibility)
 
 ^ 5 Ws and 1 H
 information-gathering or problem-solving
