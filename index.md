@@ -29,3 +29,19 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 * [Universal Design Principles](print-for-wall/universal-design-principles.pdf) (PDF)
 * [WCAG POUR Framework](print-for-wall/wcag-pour-framework.pdf) (PDF)
 * [Accessible User Experience Framework](print-for-wall/accessible-user-experience-framework.pdf) (PDF)
+
+## Photos
+
+### Stuff on walls
+
+Barriers with ticks<br/> [![](photos/thumbs/barriers-with-ticks.jpg)](photos/barriers-with-ticks.jpg).
+
+Equations<br/>[![](photos/thumbs/equations.jpg)](photos/equations.jpg).
+
+## People on floors
+
+[![](photos/thumbs/2016-05-14 10.39.10.jpg)](photos/2016-05-14 10.39.10.jpg)
+[![](photos/thumbs/2016-05-14 11.35.16.jpg)](photos/2016-05-14 11.35.16.jpg)
+[![](photos/thumbs/2016-05-14 11.48.24.jpg)](photos/2016-05-14 11.48.24.jpg)
+[![](photos/thumbs/2016-05-14 11.48.30.jpg)](photos/2016-05-14 11.48.30.jpg)
+[![](photos/thumbs/2016-05-14 12.02.18.jpg)](photos/2016-05-14 12.02.18.jpg) 
