@@ -43,7 +43,7 @@
 ---
 
 # Do GAAD activities
-## ctfeds/gaad-act
+## ctfeds.org/gaad-act
 
 ![](img/laptop.jpg)
 
@@ -61,16 +61,6 @@
 
 ---
 
-# Wall posters chat
-
-![](img/discussion.jpg)
-
-^ Accessible UX Framework
-Universal Design Principles
-5m
-
----
-
 # Make a checklist
 ## Using Appendix A
 
@@ -78,15 +68,6 @@ Universal Design Principles
 
 ^ A Web For Everyone
 20m
-
----
-
-# Three most important things
-
-![](img/stickynotes.jpg)
-
-^ mix of FED and UX
-5m
 
 ---
 
@@ -101,25 +82,10 @@ Universal Design Principles
 
 ---
 
-#  To Dos
-# For You
-# Today
+# Resources
+# Review
 
-![](img/indexcards.jpg)
-
-^ Your checklist
-This link
-Your stuff
-10m
-
----
-
-# Do Your
-# To Dos!
-
-![](img/laptop.jpg)
-
-^ 60m
+![](img/discussion.jpg)
 
 ---
 
