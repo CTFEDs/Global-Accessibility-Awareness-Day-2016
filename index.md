@@ -44,4 +44,14 @@ Equations<br/>[![](photos/thumbs/equations.jpg)](photos/equations.jpg).
 [![](photos/thumbs/2016-05-14 11.35.16.jpg)](photos/2016-05-14 11.35.16.jpg)
 [![](photos/thumbs/2016-05-14 11.48.24.jpg)](photos/2016-05-14 11.48.24.jpg)
 [![](photos/thumbs/2016-05-14 11.48.30.jpg)](photos/2016-05-14 11.48.30.jpg)
-[![](photos/thumbs/2016-05-14 12.02.18.jpg)](photos/2016-05-14 12.02.18.jpg) 
+[![](photos/thumbs/2016-05-14 12.02.18.jpg)](photos/2016-05-14 12.02.18.jpg)
+
+## Facilitator Feedback
+
+* Practical exercises for the newbies, because the audience might have been lacking accessibility.
+* Loved the activities. Perhaps we could try a practical coding example next time? Really enjoyed the personas too. Didn't think on some disabilities that could affect usage. Also enjoyed thinking more deeply on the topic. Facilitators also knowledgable which is great.
+* Loved: the interaction between members; good vibe, good question stimulation, resulting in good discussions; name tags; sit among us. Can improve: ask each person to talka a little about themselves; combine the two tables (right now I only know the two people sitting next to me)
+* Have attendees do practical examples, for example on Codepen.
+* Compared to the last CTFEDs meetup this one was more involving which is good. Liked it.
+* Not quite sure how the personas fit in? Maybe get us to choose one at the start of the workshop. We then try to roleplay being that person.
+* Live example with further investigation and discussion as part of presentation -> Will make it even more awesome! :)
