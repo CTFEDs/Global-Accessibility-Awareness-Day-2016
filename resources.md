@@ -12,6 +12,8 @@ title: Resources
 
 ## Checklist
 
+* [Vox accessibility guidelines](http://accessibility.voxmedia.com/)
+
 ### Primary
 
 * [Validate](http://validator.w3.org/) your HTML.
